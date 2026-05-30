@@ -208,7 +208,7 @@
 
 Актуальную сборку учебника в формате PDF или других удобных форматах можно получить на странице релизов:
 
-👉 [https://github.com/dmitry-osin/system-design-book/releases](https://github.com/dmitry-osin/scala-3-book/releases)
+👉 [https://github.com/dmitry-osin/system-design-book/releases](https://github.com/dmitry-osin/system-design-book/releases/)
 
 ## Лицензия
 
